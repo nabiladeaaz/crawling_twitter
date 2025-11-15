@@ -41,7 +41,9 @@ This project provides a raw text dataset suitable for **sentiment analysis, NLP 
 ## 📂 Repository Structure
 
 ├── Crawling_Data.ipynb # Main notebook containing the scraping workflow
+
 ├── hasil_crawling.txt # Raw tweet dataset from crawling
+
 └── README.md # Project documentation
 
 
