@@ -8,7 +8,7 @@ This project was developed by:
 1. Nabila Dea A. (2304220009)
 2. Nadhira Arum P. (2304220010)
 3. Aqila Huwaida E. J. (2304220011)
-4. Fahsa Mayrazzaq N. P. (2304220015)
+4. Fahsa Mayrazzaq P. N. (2304220015)
 5. Rosita Dwi F. (2304220020)
 6. Ronaldo Situmorang (2304220026)
 7. Nur Aini Rahayu P. L. (2304220029)
